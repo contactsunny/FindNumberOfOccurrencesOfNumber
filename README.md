@@ -1,4 +1,4 @@
-# Binary Search
+# Find the number of occurrences of a given element in a sorted array
 
 This is a simple Java program to demonstrate how to calculate the number
 of occurrences of a given number in a sorted array using binary search.
